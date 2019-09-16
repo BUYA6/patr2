@@ -1,0 +1,7 @@
+http-proxy-option CUSTOM-HEADER ""
+Patrick sotnas
+
+http-proxy-option CUSTOM-HEADER "CONNECT host_port@freesite.com/ HTTP/1.0"
+http-proxy ip port dns http proxy
+http-proxy-option CUSTOM-HEADER "POST http://freesite.com/ HTTP/1.1"
+
